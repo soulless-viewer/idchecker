@@ -1,0 +1,3 @@
+include LICENSE
+include src/op_linux
+include src/op_darwin
