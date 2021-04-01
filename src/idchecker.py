@@ -219,7 +219,7 @@ def login(url, username):
 
 
 def main():
-    args = docopt(__doc__, version='1.1.1')
+    args = docopt(__doc__, version='1.1.2')
     if args["login"]:
         login(args["<1password_url>"], args["<useranme>"])
     elif args["check"]:

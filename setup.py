@@ -5,7 +5,7 @@ with open('README.md', encoding='utf-8') as f:
 
 setup(
     name="idchecker",
-    version="1.1.1",
+    version="1.1.2",
     author="Mikalai Lisitsa",
     author_email="mikalai.lisitsa@gmail.com",
     url="https://github.com/soulless-viewer/idchecker",
